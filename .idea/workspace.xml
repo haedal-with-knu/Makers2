@@ -2,6 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984f95aa-2b33-40b4-a13a-04a2ae750f8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/OttoDIY_body_V10.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/OttoDIY_foot_V10.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/OttoDIY_head_V10.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/OttoDIY_leg_V10.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_body_V01.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_body_V02.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_body_V03.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_body_V05.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_body_V06.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_body_V08.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_body_V09.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_feet_V05.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footL_V01.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footL_V02.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footL_V03.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footL_V04.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footL_V07.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footR_V01.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footR_V02.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footR_V03.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footR_V04.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_footR_V07.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_foot_V09.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_head_V01.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_head_V02.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_head_V06.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_heag_V03.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_leg_V01.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_leg_V02.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_leg_V03.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_leg_V04.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_leg_V07.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_leg_V09.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/3d_printing/3Dprint/previous versions/OttoDIY_legs_V05.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/HC-06_datasheet/hc06.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/arduino_bluetooth/arduino_Bluetooth.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/arduino_bluetooth/arduino_bluetooth.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/arduino_bluetooth_LED/KakaoTalk_20200708_113347702.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/arduino_bluetooth_LED/arduino_Bluetooth_LED.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/AT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/blue_tooth_circuit.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/blue_tooth_circuit2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/hc-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/kakao1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/kakao2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/kakao3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/kakao4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/kakao5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Bluetooth/img/kakao6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Buzzer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Buzzer/arduino_buuzer_school/arduino_buzzer_school/arduino_buzzer_school.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Buzzer/arduino_buzzer_basic/arduino_buzzer_basic.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Buzzer/arduino_buzzer_pirates/arduino_buzzer_pirates.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Buzzer/arduino_buzzer_pirates/arduino_buzzer_pirates.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Buzzer/img/Hz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Buzzer/img/buzzer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Buzzer/img/buzzer_circuit.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/arduino_sound_clap/arduino_Sound_clap.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/arduino_sound_clap/arduino_sound_clap.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/arduino_sound_db/arduino_sound_db.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/img/Sound_bread2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/img/analog_sound.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/img/analog_sound1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/img/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/img/sound_bread.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/img/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/Sound-Sensor/img/요놈.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/img/otto-diy.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/SG90_datasheet/sg90_datasheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/arduino_servo_0to180/arduino_0_to_180.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/arduino_servo_0to180/arduino_0_to_180.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/arduino_servo_manual/arduino_move_manual.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/arduino_servo_manual/arduion_move_manual.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/img/SERVO.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/img/Servo_motor.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/img/서보모터.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/servo_motor/img/원리.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/ultrasonic-wave-Sensor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/ultrasonic-wave-Sensor/arduino_ultrasonic_basic/arduino_ultrasonic_basic.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/ultrasonic-wave-Sensor/img/board.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/ultrasonic-wave-Sensor/img/reason.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/ultrasonic-wave-Sensor/img/ultrasonic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/ultrasonic-wave-Sensor/img/센서가시거리.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makers/ING-Robot/ultrasonic-wave-Sensor/img/음파측정.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +115,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eITI7Khnnx39qJ43BUzaPH9Srr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +123,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Makers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Makers\Makers" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594700812630</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020-07-07">
+      <created>1594700851425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594700851425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -62,23 +170,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="2020-07-07" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1594700811881">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1594700850675">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594095361685" />
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594700811881" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594183717349">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594700850675" />
+    <state x="689" y="-861" key="FileChooserDialogImpl" timestamp="1595916039231">
+      <screen x="3" y="-1080" width="1920" height="1080" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594183717349" />
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@0.0.1536.864" timestamp="1595430423534" />
+    <state x="689" y="-861" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595916039231" />
     <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1594009170377">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1594009170377" />
-    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1594700816286">
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1594700860094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594095370163" />
-    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1594700816286" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1594700860094" />
   </component>
 </project>
