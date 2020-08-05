@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af67f2f9-f0e2-4951-800e-115080690813" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fIov7lAUqBs2fA7ubwJguaF6Wv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jinha_Proposal" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af67f2f9-f0e2-4951-800e-115080690813" name="Default Changelist" comment="" />
+      <created>1595915195376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595915195376</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hello">
+      <created>1595915244784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595915244784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="-979" key="CommitChangelistDialog2" timestamp="1595915243949">
+      <screen x="3" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="465" y="-979" key="CommitChangelistDialog2/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595915243949" />
+    <state x="628" y="-800" key="FileChooserDialogImpl" timestamp="1595915481169">
+      <screen x="3" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="628" y="-800" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595915481169" />
+    <state x="440" y="-822" key="Vcs.Push.Dialog.v2" timestamp="1595915253087">
+      <screen x="3" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="440" y="-822" key="Vcs.Push.Dialog.v2/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595915253087" />
+  </component>
+</project>

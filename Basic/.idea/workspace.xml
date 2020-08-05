@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8370b756-c810-4525-b168-6b59e8471ad3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eIXU1PoTtazYVCYBb6rpqrqy0Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TIL" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8370b756-c810-4525-b168-6b59e8471ad3" name="Default Changelist" comment="" />
+      <created>1594010092308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594010092308</updated>
+    </task>
+    <task id="LOCAL-00001" summary="arduino">
+      <created>1594023674123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594023674123</updated>
+    </task>
+    <task id="LOCAL-00002" summary="arduino">
+      <created>1594023692729</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594023692729</updated>
+    </task>
+    <task id="LOCAL-00003" summary="arduino">
+      <created>1594026866270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594026866270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="arduino">
+      <created>1594029553373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594029553373</updated>
+    </task>
+    <task id="LOCAL-00005" summary="arduino">
+      <created>1594029563762</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594029563762</updated>
+    </task>
+    <task id="LOCAL-00006" summary="arduino">
+      <created>1594041283925</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594041283925</updated>
+    </task>
+    <task id="LOCAL-00007" summary="arduino">
+      <created>1594041464398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594041464398</updated>
+    </task>
+    <task id="LOCAL-00008" summary="arduino">
+      <created>1594041613098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594041613098</updated>
+    </task>
+    <task id="LOCAL-00009" summary="arduino">
+      <created>1594097814133</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594097814133</updated>
+    </task>
+    <task id="LOCAL-00010" summary="arduino">
+      <created>1594700707394</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594700707394</updated>
+    </task>
+    <task id="LOCAL-00011" summary="arduino">
+      <created>1596001254124</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596001254124</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="&quot;C:\Program Files\Git\bin\bash.exe&quot; --login" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="arduino" />
+    <option name="LAST_COMMIT_MESSAGE" value="arduino" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1596001253141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-954" y="81" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594029561656" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594097813402" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1596001253141" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594700706418" />
+    <state x="2606" y="219" key="FileChooserDialogImpl" timestamp="1596594242263">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594095336677" />
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1596002877985" />
+    <state x="2606" y="219" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596594242263" />
+    <state x="2381" y="184" key="SettingsEditor" timestamp="1596594253924">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="184" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596594253924" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1596001262702">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1469" y="183" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594029571823" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594097821153" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1596001262702" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1594700712155" />
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596000414081">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596000414081" />
+  </component>
+</project>

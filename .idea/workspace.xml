@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984f95aa-2b33-40b4-a13a-04a2ae750f8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Arduino_Pager" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino_Pager" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Arduino_Pager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino_Pager/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Arduino_basic" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino_basic" afterDir="false" />
