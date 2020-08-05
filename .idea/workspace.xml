@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="984f95aa-2b33-40b4-a13a-04a2ae750f8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino_Pager" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino_Pager" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino_Pager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino_Pager/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino_basic" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino_basic" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino_basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino_basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Arduino_Pager" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1eITI7Khnnx39qJ43BUzaPH9Srr" />
