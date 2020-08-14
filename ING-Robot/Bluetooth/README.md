@@ -1,4 +1,4 @@
-# ((((블루투스))))  
+# 블루투스..sexy하고 fun하게.. 음 그건 약속이니깐... 
 블루투스는 근거리 무선 통신을 위한 산업 표준이다. 주로 블루투스는 1대1일 통신만 지원하며 근거리 통신만 가능하다. 
 이러한 블루투스의 단점을 보완하며 만들어 낸 것이 로라 통신인데 그건 다음에 사용할 기회가 있으면 교육자료를 올리겠다.
 이번에 사용할 모듈 hc-06은 값싸고 가장 자주 사용하는 모델이다. 
@@ -90,7 +90,7 @@ http://www.micro4you.com/files/ElecFreaks/Bluetooth%20HC-06.pdf
         bluetooth.write(Serial.read());
       }
     }
-
+[![ㅜ](http://img.youtube.com/vi/vkFoeIQtwXA/0.jpg)](https://www.youtube.com/watch?v=vkFoeIQtwXA)
 
 2.Arduino를 통해 LED키고 끄기  
 
@@ -134,3 +134,5 @@ http://www.micro4you.com/files/ElecFreaks/Bluetooth%20HC-06.pdf
     
     
     }
+
+[![ㅜ](http://img.youtube.com/vi/XQpttyAi5gE/0.jpg)](https://www.youtube.com/watch?v=XQpttyAi5gE)

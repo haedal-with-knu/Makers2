@@ -53,7 +53,13 @@
       Serial.println(level);
       delay(300);
     }
-　　  
+
+  
+[![ㅜ](http://img.youtube.com/vi/EkzEocB56YA/0.jpg)](https://www.youtube.com/embed/EkzEocB56YA)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EkzEocB56YA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+왜안될까....
+
 2.디지털 사운드 센서를 통한 박수 횟수에 따라 LED켜지기  
 
   

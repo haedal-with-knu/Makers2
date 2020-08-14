@@ -285,3 +285,6 @@ level에는 내고 싶은 음을 time에는 음정 지속시간을 생각해 적
     void loop() {
     
     }
+
+
+[![ㅜ](http://img.youtube.com/vi/osLdtkNmKHk/0.jpg)](https://www.youtube.com/watch?v=osLdtkNmKHk)

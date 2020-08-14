@@ -66,7 +66,7 @@ Servo(따르다 : 사용자의 명령을 따르는 착한 친구)라는 뜻을 �
      
 　  
  
-[![결과영상](../servo_motor/img/otto-diy.PNG)](https://www.youtube.com/watch?v=oMY6p6zNqz4)  
+[![ㅜ](http://img.youtube.com/vi/_vR2-kCk3po/0.jpg)](https://www.youtube.com/watch?v=_vR2-kCk3po)
 　  
 2.시리얼 모니터에서 입력값을 통해 서보모터를 자신이 원하는 각도로 회전해 보자.  
       
@@ -128,5 +128,5 @@ Servo(따르다 : 사용자의 명령을 따르는 착한 친구)라는 뜻을 �
         }
     }
   
-[![결과영상](../servo_motor/img/otto-diy.PNG)](https://www.youtube.com/watch?v=oMY6p6zNqz4)
+[![ㅜ](http://img.youtube.com/vi/xAAU71sAAa8/0.jpg)](https://www.youtube.com/watch?v=xAAU71sAAa8)
 
